@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: greenyellow;
+    font-size: 48px;
+    text-align: center;
+}
+#logo {
+    width: 400px;
+    height: 560px;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
